@@ -1,0 +1,1 @@
+{"success":false,"error":"Audio transcription failed","message":"Connection error."}
